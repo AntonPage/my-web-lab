@@ -1,0 +1,23 @@
+{
+  "name": "my-web-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonPage/my-web-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonPage/my-web-lab/issues"
+  },
+  "homepage": "https://github.com/AntonPage/my-web-lab#readme",
+  "description": "",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
