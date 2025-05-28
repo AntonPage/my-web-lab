@@ -1,4 +1,0 @@
-{
-  "build": "echo 'No build step'",
-  "start": "npm start"
-}
